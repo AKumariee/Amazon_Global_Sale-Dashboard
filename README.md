@@ -191,3 +191,13 @@ Go to Format your visual section on right side of visualization pan-->visual
 Go to Format visual-->General-->
 * click on Title to change title name and colour of text and other formats
 * Effect--> change background colour,visual border and shadow
+
+final dashboard visual:
+![Image description](/Images/final_look.PNG)
+
+Changing complete theme of dashboard:
+duplicate the existing dashboard and make changes in duplicate copy.
+![Image description](/Images/dashboard_2.PNG)
+_____________________________________________________________________
+
+
